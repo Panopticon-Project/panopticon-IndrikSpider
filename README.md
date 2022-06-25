@@ -15,3 +15,5 @@ https://www.bleepingcomputer.com/news/security/evil-corp-demands-40-million-in-n
 https://www.securityweek.com/russian-cybercrime-group-exploits-solarwinds-serv-u-vulnerability
 
 https://www.sentinelone.com/labs/sanctions-be-damned-from-dridex-to-macaw-the-evolution-of-evil-corp/
+
+https://home.treasury.gov/news/press-releases/sm845
