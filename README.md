@@ -17,3 +17,5 @@ https://www.securityweek.com/russian-cybercrime-group-exploits-solarwinds-serv-u
 https://www.sentinelone.com/labs/sanctions-be-damned-from-dridex-to-macaw-the-evolution-of-evil-corp/
 
 https://home.treasury.gov/news/press-releases/sm845
+
+https://blog.sucuri.net/2022/08/fake-ddos-pages-on-wordpress-lead-to-drive-by-downloads.html
