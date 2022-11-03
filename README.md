@@ -19,3 +19,17 @@ https://www.sentinelone.com/labs/sanctions-be-damned-from-dridex-to-macaw-the-ev
 https://home.treasury.gov/news/press-releases/sm845
 
 https://blog.sucuri.net/2022/08/fake-ddos-pages-on-wordpress-lead-to-drive-by-downloads.html
+
+https://redcanary.com/blog/raspberry-robin/
+
+https://www.bleepingcomputer.com/news/security/microsoft-finds-raspberry-robin-worm-in-hundreds-of-windows-networks/
+
+https://www.securityweek.com/raspberry-robin-windows-worm-abuses-qnap-devices
+
+https://www.cybereason.com/blog/threat-alert-raspberry-robin-worm-abuses-windows-installer-and-qnap-devices
+
+https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/#DEV-0206-DEV-0243
+
+https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/
+
+https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/
