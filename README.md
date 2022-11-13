@@ -33,3 +33,5 @@ https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-under
 https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/
 
 https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/
+
+https://www.sentinelone.com/labs/socgholish-diversifies-and-expands-its-malware-staging-infrastructure-to-counter-defenders/ - is this indrik or another socg user?
