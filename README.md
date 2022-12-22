@@ -35,3 +35,5 @@ https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-i
 https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/
 
 https://www.sentinelone.com/labs/socgholish-diversifies-and-expands-its-malware-staging-infrastructure-to-counter-defenders/ - is this indrik or another socg user?
+
+https://www.trendmicro.com/en_us/research/22/l/raspberry-robin-malware-targets-telecom-governments.html?utm_source=substack&utm_medium=email
