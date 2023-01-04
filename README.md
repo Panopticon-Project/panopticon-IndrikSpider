@@ -37,3 +37,9 @@ https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-pa
 https://www.sentinelone.com/labs/socgholish-diversifies-and-expands-its-malware-staging-infrastructure-to-counter-defenders/ - is this indrik or another socg user?
 
 https://www.trendmicro.com/en_us/research/22/l/raspberry-robin-malware-targets-telecom-governments.html?utm_source=substack&utm_medium=email
+
+https://blog.sucuri.net/2022/11/new-wave-of-socgholish-cid27x-injections.html?utm_source=substack&utm_medium=email
+
+https://blog.sucuri.net/2022/11/new-socgholish-malware-variant-uses-zip-compression-evasive-techniques.html?utm_source=substack&utm_medium=email
+
+https://www.proofpoint.com/us/blog/threat-insight/part-1-socgholish-very-real-threat-very-fake-update?utm_source=substack&utm_medium=email
