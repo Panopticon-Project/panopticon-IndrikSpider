@@ -43,3 +43,7 @@ https://blog.sucuri.net/2022/11/new-wave-of-socgholish-cid27x-injections.html?ut
 https://blog.sucuri.net/2022/11/new-socgholish-malware-variant-uses-zip-compression-evasive-techniques.html?utm_source=substack&utm_medium=email
 
 https://www.proofpoint.com/us/blog/threat-insight/part-1-socgholish-very-real-threat-very-fake-update?utm_source=substack&utm_medium=email
+
+https://twitter.com/SophosXOps/status/1594703522993508352
+
+https://github.com/sophoslabs/IoCs/blob/master/Worm-Raspberry-Robin.csv
