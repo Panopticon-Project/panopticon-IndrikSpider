@@ -47,3 +47,5 @@ https://www.proofpoint.com/us/blog/threat-insight/part-1-socgholish-very-real-th
 https://twitter.com/SophosXOps/status/1594703522993508352
 
 https://github.com/sophoslabs/IoCs/blob/master/Worm-Raspberry-Robin.csv
+
+https://www.securityjoes.com/post/raspberry-robin-detected-itw-targeting-insurance-financial-institutes-in-europe
